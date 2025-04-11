@@ -32,7 +32,7 @@ pip install python-tts---voice-cloning_module
 2. Train the model or use the pretrained checkpoint  
 3. Run the script:
 ```bash
-python generate.py --text "Your custom text here" --voice "your_voice_sample.wav"
+python voicecloneing.py --text "Your custom text here" --voice "your_voice_sample.wav"
 ```
 
 ## 🎯 Use Cases
