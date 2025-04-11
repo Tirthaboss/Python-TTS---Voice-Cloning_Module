@@ -1,8 +1,9 @@
-torch==2.0.0          # PyTorch for deep learning
-torchaudio==0.12.0    # Audio processing with PyTorch
-librosa==0.9.2        # Audio analysis and processing
-soundfile==0.10.3     # Reading and writing sound files
-numpy==1.23.5         # Numerical operations
-scipy==1.10.1         # Scientific computing
-matplotlib==3.6.2     # For plotting (optional, for visualizing audio)
-pydub==0.25.1         # Audio file manipulation (optional)
+torch==2.0.0             # PyTorch for deep learning
+torchaudio==2.0.0        # Audio processing with PyTorch (match PyTorch version)
+librosa==0.9.2           # Audio analysis and processing
+soundfile==0.12.1        # Reading and writing sound files (latest compatible)
+numpy==1.23.5            # Numerical operations
+scipy==1.10.1            # Scientific computing
+matplotlib==3.6.2        # For plotting (optional, for visualizing audio)
+pydub==0.25.1            # Audio file manipulation (optional)
+streamlit==1.32.2        # Streamlit app framework
