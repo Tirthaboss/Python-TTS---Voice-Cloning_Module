@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from tts_voice_cloning import TTSVoiceCloning
+from voicecloning import TTSVoiceCloning
 
 # Initialize module
 tts_module = TTSVoiceCloning()
